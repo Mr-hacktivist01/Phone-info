@@ -12,7 +12,7 @@ if [ $(whoami) != "root" ];then
     python3 -m playwright install 
     echo -e "${lightblue}[+]${green} Installation is finished. You can run 'run.sh' file now."
 else
-    echo -e "${RED}[-]Don't use Moriarty Project with root. \n[!]You have to use it with a normal account"
+    echo -e "${RED}[-]Don't use (MR. HACKTIVIST) phone-info with root. \n[!]You have to use it with a normal account"
     exit
 fi
 
