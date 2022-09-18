@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="19%" src="banners/logo.png">
+    <img width="80%" src="banners/logo.png">
 </p>
 <h2 align="center" width="100%">HACKTIVIST phone-info V4.1.1.</h2>
 
